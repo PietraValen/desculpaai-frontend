@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "language": "en,pt",
+  "locale": "pt-BR",
+  "dictionaries": ["portuguese", "english"],
+  "dictionaryDefinitions": [
+    {
+      "name": "portuguese",
+      "path": "cspell:portuguese/pt-br/words.txt"
+    }
+  ],
+  "ignoreRegExpList": [
+    "/(https?|ftp):\\/\\/[^\\s]+"
+  ]
+}
