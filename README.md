@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Desculpa Aí - Um Guia do Mochileiro para Aplicações Next.js
 
-## Getting Started
+> "Um em cada dois bilhões de pessoas é um programador. Um em cada dois bilhões de bilhões de pessoas consegue manter a calma enquanto faz deploy de código. A vida é rara."
 
-First, run the development server:
+Este é um projeto [Next.js](https://nextjs.org) criado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) — um pacote absolutamente saudável de técnicas modernas de web development que, muito provavelmente, também criará quadros existenciais em um universo sem propósito.
+
+## 🛸 Começando Sua Jornada
+
+Se você está lendo isto, já cometeu pelo menos um erro de digitação no terminal. Não se preocupe. A vida universal é assim mesmo.
+
+Para despertar seu servidor de desenvolvimento do sono cósmico:
 
 ```bash
 npm run dev
-# or
+# ou qualquer variação que você escolher
 yarn dev
-# or
 pnpm dev
-# or
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) em seu navegador e contemple o vazio digital que você criou.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌌 O Código Que Você Provavelmente Vai Quebrar
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Edite `app/page.tsx` se tiver coragem suficiente. Ao salvar, a página se atualizará (isso é magia do Next.js, provavelmente também não recomendada).
 
-## Learn More
+Este projeto usa [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) para carregar a fonte [Geist](https://vercel.com/font) automaticamente — porque otimizar tipografia é mais importante do que entender seu próprio código. Sem dúvida.
 
-To learn more about Next.js, take a look at the following resources:
+## 📚 Aprendendo Com Nossas Falhas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Existem recursos que podem ajudar (provavelmente não, mas vale tentar):
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [Documentação do Next.js](https://nextjs.org/docs) - Leia isto quando tiver insônia
+- [Aprenda Next.js](https://nextjs.org/learn) - Um tutorial interativo para aqueles que gostam de sofrimento estruturado
+- [Repositório do Next.js no GitHub](https://github.com/vercel/next.js) - Onde engenheiros muito mais inteligentes do que você resolvem problemas que você ainda nem descobriu
 
-## Deploy on Vercel
+## 🪐 Implantação no Infinito (via Vercel)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+A forma mais fácil de compartilhar suas criações cibernéticas com o universo é usar a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) — criada pelos inventores do Next.js e, portanto, ligeiramente mais confiável que uma nave construída pelo Zarniwoop.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Confira a [documentação de deployment do Next.js](https://nextjs.org/docs/app/building-your-application/deploying) para detalhes adicionais que provavelmente não entenderá na primeira leitura.
+
+---
+
+*"A coisa mais importante a saber sobre o desenvolvimento web é que ele é, fundamentalmente, absurdo. Isso está bem."*
