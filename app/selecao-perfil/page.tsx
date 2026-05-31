@@ -18,7 +18,7 @@ export default function SelecaoPerfil() {
     if (perfil === 'desesperado') {
       router.push('/desesperado/situacao');
     } else {
-      router.push('/alibi/chamados');
+      router.push('/alibi');
     }
   };
 
